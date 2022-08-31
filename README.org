@@ -1,0 +1,16 @@
+#+TITLE: Unnamed Rust City Builder Project
+
+* Cities
+
+** Population
+
+** Territory
+
+** Resources
+
+* Generation
+
+- [x] generate cities with random population and territory
+  - [x] starting population is randomly chosen from 1 up to a chosen value
+  - [x] territories have random tiles with random resources
+- [ ] generate cities with coherent territory (biomes/terrains should smoothly merge)
